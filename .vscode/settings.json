@@ -1,0 +1,5 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "python.pythonPath": "C:/Users/laurence/AppData/Local/Continuum/Anaconda3/envs/djangogirls/python",
+    "python.linting.pylintPath": "C:/Users/laurence/AppData/Local/Continuum/Anaconda3/envs/djangogirls/Scripts/pylint",
+}
