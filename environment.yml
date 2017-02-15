@@ -1,0 +1,14 @@
+# packages in environment at C:\Users\laurence\AppData\Local\Continuum\Anaconda3\envs\djangogirls:
+#
+astroid                   1.4.9                    py35_0  
+django                    1.10.5                   py35_0  
+isort                     4.2.5                    py35_0  
+lazy-object-proxy         1.2.2                    py35_0  
+pip                       9.0.1                    py35_1  
+pylint                    1.6.4                    py35_1  
+python                    3.5.2                         0  
+setuptools                27.2.0                   py35_1  
+six                       1.10.0                   py35_0  
+vs2015_runtime            14.0.25123                    0  
+wheel                     0.29.0                   py35_0  
+wrapt                     1.10.8                   py35_0  
